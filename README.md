@@ -23,3 +23,10 @@
   <a href = "mailto:"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ricardohdias" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+<div align="center">
+<br><p align="centre"><b>Visitei</b></p>  
+<p align="center" theme="transparent"><img align="center" src="https://profile-counter.glitch.me/{dilson123-tech}/count.svg" /></p> 
+<br>
+</div>
+
