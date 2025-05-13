@@ -25,7 +25,7 @@
 </div>
 
 <div align="center">
-<br><p align="centre"><b>Visitei</b></p>  
+<br><p align="centre"><b>Visitados</b></p>  
 <p align="center" theme="transparent"><img align="center" src="https://profile-counter.glitch.me/{dilson123-tech}/count.svg" /></p> 
 <br>
 </div>
