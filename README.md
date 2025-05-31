@@ -4,7 +4,7 @@
 <br>
 </div>## Hi there 👋
 
-<p align="center">
+<p align="start">
   <img src="https://avatars.githubusercontent.com/u/206139678?v=4" width="300"/>
 </p>
 
