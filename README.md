@@ -5,7 +5,7 @@
 </div>## Hi there 👋
 
 <p align="center">
-  <img src="https://github.com/dilson123-tech/dilsongpt/raw/main/dilsongpt_logo_github.png" width="300"/>
+  <img src="https://avatars.githubusercontent.com/u/206139678?v=4" width="300"/>
 </p>
 
 <h1 align="center">Olá, eu sou o Dilson 👋</h1>
