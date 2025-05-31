@@ -1,4 +1,8 @@
-## Hi there 👋
+<div align="center">
+<br><p align="centre"><b>Visitados</b></p>  
+<p align="center" theme="transparent"><img align="center" src="https://profile-counter.glitch.me/{dilson123-tech}/count.svg" /></p> 
+<br>
+</div>## Hi there 👋
 
 <p align="center">
   <img src="https://github.com/dilson123-tech/dilsongpt/raw/main/dilsongpt_logo_github.png" width="300"/>
