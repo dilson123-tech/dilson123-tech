@@ -4,9 +4,9 @@
 <br>
 </div>## Hi there 👋
 
-<p align="start">
+<!--<p align="start">
   <img src="https://avatars.githubusercontent.com/u/206139678?v=4" width="300"/>
-</p>
+</p>-->
 
 <h1 align="center">Olá, eu sou o Dilson 👋</h1>
 
