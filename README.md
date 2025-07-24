@@ -28,6 +28,23 @@
 
 ## 📌 Projetos em destaque
 
+---
+
+## 🚀 Trilha Oficial Trailhead – Salesforce Pro
+
+Concluí uma trilha personalizada no Trailhead com foco em automações inteligentes e integração com IA:
+
+- 🔁 Flow Builder para automação de processos
+- 🔌 APIs REST com Salesforce
+- 🤖 Inteligência Artificial com Salesforce Einstein
+- 📦 Módulos práticos com aplicação real
+
+📍 Confira a trilha completa e veja como estou me preparando para o mercado:
+👉 [Salesforce Pro: IA, Flow, API e Automação com Dilson Pereira](https://trailhead.salesforce.com/pt-BR/users/kwm2fm08fjq3phdow4/trailmixes/salesforce-pro-ia-flow-api-e-automacao-com-dilson-pereira)
+
+#Salesforce #Trailhead #FlowBuilder #APIs #Automação #IA #DilsonPereira
+
+
 - [DilsongGPT](https://github.com/dilson123-tech/dilsongpt) – Chatbot inteligente com IA
 - Sistema de Controle de Carga – Projeto voltado para o Porto de Itapoá
 - Sites com integração real de pagamento e interfaces modernas
